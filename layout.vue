@@ -76,7 +76,7 @@ export default {
       automaticLayout: true,
       wordWrap: true,
       renderWhitespace: 'all',
-      fontFamily: D2Coding, "나눔고딕코딩", monospace, Consolas, "Courier New", monospace,
+      fontFamily: 'D2Coding, "나눔고딕코딩", monospace, Consolas, "Courier New", monospace',
       value: this.$store.state.viewData.content,
       minimap: {
         enabled: false
