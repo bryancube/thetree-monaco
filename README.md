@@ -1,1 +1,1 @@
-for [https://wiki.kku-tu.com/]
+for https://wiki.kku-tu.com/
